@@ -172,10 +172,10 @@ return [
         ],
 
         'stats' => [
-            'cs' => 'Circle Size',
-            'cs-mania' => 'Key Amount',
+            'cs' => 'Ukuran Circle',
+            'cs-mania' => 'Jumlah Key',
             'drain' => 'HP Drain',
-            'accuracy' => 'Accuracy',
+            'accuracy' => 'Akurasi',
             'ar' => 'Approach Rate',
             'stars' => 'Star Difficulty',
             'total_length' => 'Durasi',
